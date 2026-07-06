@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/rohheitt/coding/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rohheitt/coding/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/rohheitt/coding/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/rohheitt/coding/tree/master/0283-move-zeroes) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/rohheitt/coding/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/rohheitt/coding/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/rohheitt/coding/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/rohheitt/coding/tree/master/0169-majority-element) |
 ## Counting
 |  |
