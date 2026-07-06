@@ -6,7 +6,7 @@ class Solution {
         for(int i=0; i<nums.length; i++){
             currmaj = 0;
             for(int j=i; j<nums.length; j++){
-                if(nums[i] == nums[j]){
+               if(nums[i] == nums[j]){
                     currmaj++;
                 }
             }
