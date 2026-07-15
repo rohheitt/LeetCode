@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rohheitt/coding/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/rohheitt/coding/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/rohheitt/coding/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/rohheitt/coding/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -49,11 +50,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rohheitt/coding/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rohheitt/coding/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0287-find-the-duplicate-number](https://github.com/rohheitt/coding/tree/master/0287-find-the-duplicate-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/rohheitt/coding/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/rohheitt/coding/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/rohheitt/coding/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/rohheitt/coding/tree/master/0206-reverse-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/rohheitt/coding/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
