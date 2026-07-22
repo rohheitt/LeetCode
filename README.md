@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/rohheitt/coding/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rohheitt/coding/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/rohheitt/coding/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/rohheitt/coding/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/rohheitt/coding/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/rohheitt/coding/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
@@ -65,11 +66,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rohheitt/coding/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/rohheitt/coding/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/rohheitt/coding/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/rohheitt/coding/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/rohheitt/coding/tree/master/0217-contains-duplicate) |
 ## Counting
 |  |
 | ------- |
