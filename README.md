@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/rohheitt/coding/tree/master/0042-trapping-rain-water) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rohheitt/coding/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rohheitt/coding/tree/master/0145-binary-tree-postorder-traversal) |
 ## Array
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rohheitt/coding/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rohheitt/coding/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/rohheitt/coding/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/rohheitt/coding/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/rohheitt/coding/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rohheitt/coding/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/rohheitt/coding/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/rohheitt/coding/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/rohheitt/coding/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/rohheitt/coding/tree/master/0283-move-zeroes) |
@@ -106,5 +109,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/rohheitt/coding/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/rohheitt/coding/tree/master/0053-maximum-subarray) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/rohheitt/coding/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
