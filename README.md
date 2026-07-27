@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/rohheitt/coding/tree/master/0287-find-the-duplicate-number) |
 | [0643-maximum-average-subarray-i](https://github.com/rohheitt/coding/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/rohheitt/coding/tree/master/0646-maximum-length-of-pair-chain) |
+| [1029-two-city-scheduling](https://github.com/rohheitt/coding/tree/master/1029-two-city-scheduling) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/rohheitt/coding/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rohheitt/coding/tree/master/0242-valid-anagram) |
 | [0646-maximum-length-of-pair-chain](https://github.com/rohheitt/coding/tree/master/0646-maximum-length-of-pair-chain) |
+| [1029-two-city-scheduling](https://github.com/rohheitt/coding/tree/master/1029-two-city-scheduling) |
 ## Counting
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/rohheitt/coding/tree/master/0646-maximum-length-of-pair-chain) |
+| [1029-two-city-scheduling](https://github.com/rohheitt/coding/tree/master/1029-two-city-scheduling) |
 ## Sliding Window
 |  |
 | ------- |
