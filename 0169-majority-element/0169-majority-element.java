@@ -1,18 +1,18 @@
 class Solution {
     public int majorityElement(int[] nums) {
-        int majority = 0;
-        int count = 0;
+        int ans = -1;
+        HashMap<Integer, Integer> map = new HashMap<>();
 
         for(int num : nums){
-            if(count == 0){
-                majority = num;
-            }
-            if(num == majority){
-                count++;
-            }else{
-                count--;
+            map.put(num, map.getOrDefault(num, 0) + 1);
+        }
+
+        for(int i=0; i<nums.length; i++){
+            if(map.get(nums[i]) > nums.length / 2){
+                ans = nums[i];
             }
         }
-        return majority;
+
+        return ans;
     }
 }
