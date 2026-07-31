@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/rohheitt/coding/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/rohheitt/coding/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/rohheitt/coding/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/rohheitt/coding/tree/master/0392-is-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/rohheitt/coding/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/rohheitt/coding/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/rohheitt/coding/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/rohheitt/coding/tree/master/0392-is-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rohheitt/coding/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/rohheitt/coding/tree/master/0053-maximum-subarray) |
+| [0392-is-subsequence](https://github.com/rohheitt/coding/tree/master/0392-is-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/rohheitt/coding/tree/master/0646-maximum-length-of-pair-chain) |
 ## Monotonic Stack
 |  |
