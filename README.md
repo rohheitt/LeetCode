@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rohheitt/coding/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/rohheitt/coding/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/rohheitt/coding/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/rohheitt/coding/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/rohheitt/coding/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rohheitt/coding/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rohheitt/coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/rohheitt/coding/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/rohheitt/coding/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/rohheitt/coding/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rohheitt/coding/tree/master/0215-kth-largest-element-in-an-array) |
