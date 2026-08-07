@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/rohheitt/coding/tree/master/0646-maximum-length-of-pair-chain) |
 | [1029-two-city-scheduling](https://github.com/rohheitt/coding/tree/master/1029-two-city-scheduling) |
 | [1480-running-sum-of-1d-array](https://github.com/rohheitt/coding/tree/master/1480-running-sum-of-1d-array) |
+| [3731-find-missing-elements](https://github.com/rohheitt/coding/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/rohheitt/coding/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rohheitt/coding/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/rohheitt/coding/tree/master/0560-subarray-sum-equals-k) |
+| [3731-find-missing-elements](https://github.com/rohheitt/coding/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rohheitt/coding/tree/master/0268-missing-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/rohheitt/coding/tree/master/0646-maximum-length-of-pair-chain) |
 | [1029-two-city-scheduling](https://github.com/rohheitt/coding/tree/master/1029-two-city-scheduling) |
+| [3731-find-missing-elements](https://github.com/rohheitt/coding/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
