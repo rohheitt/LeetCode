@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/rohheitt/coding/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/rohheitt/coding/tree/master/0646-maximum-length-of-pair-chain) |
 | [1029-two-city-scheduling](https://github.com/rohheitt/coding/tree/master/1029-two-city-scheduling) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rohheitt/coding/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/rohheitt/coding/tree/master/1480-running-sum-of-1d-array) |
 | [3731-find-missing-elements](https://github.com/rohheitt/coding/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rohheitt/coding/tree/master/0268-missing-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/rohheitt/coding/tree/master/0646-maximum-length-of-pair-chain) |
 | [1029-two-city-scheduling](https://github.com/rohheitt/coding/tree/master/1029-two-city-scheduling) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rohheitt/coding/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3731-find-missing-elements](https://github.com/rohheitt/coding/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rohheitt/coding/tree/master/0215-kth-largest-element-in-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rohheitt/coding/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Quickselect
 |  |
 | ------- |
