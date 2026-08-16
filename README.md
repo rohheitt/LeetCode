@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/rohheitt/coding/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/rohheitt/coding/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/rohheitt/coding/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/rohheitt/coding/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/rohheitt/coding/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/rohheitt/coding/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/rohheitt/coding/tree/master/0125-valid-palindrome) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rohheitt/coding/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/rohheitt/coding/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/rohheitt/coding/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/rohheitt/coding/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/rohheitt/coding/tree/master/0072-edit-distance) |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/rohheitt/coding/tree/master/0044-wildcard-matching) |
 | [0646-maximum-length-of-pair-chain](https://github.com/rohheitt/coding/tree/master/0646-maximum-length-of-pair-chain) |
 | [1029-two-city-scheduling](https://github.com/rohheitt/coding/tree/master/1029-two-city-scheduling) |
 ## Sliding Window
