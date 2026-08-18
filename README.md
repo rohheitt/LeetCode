@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/rohheitt/coding/tree/master/0096-unique-binary-search-trees) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rohheitt/coding/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/rohheitt/coding/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rohheitt/coding/tree/master/0144-binary-tree-preorder-traversal) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/rohheitt/coding/tree/master/0096-unique-binary-search-trees) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rohheitt/coding/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/rohheitt/coding/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rohheitt/coding/tree/master/0144-binary-tree-preorder-traversal) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rohheitt/coding/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/rohheitt/coding/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rohheitt/coding/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0096-unique-binary-search-trees](https://github.com/rohheitt/coding/tree/master/0096-unique-binary-search-trees) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rohheitt/coding/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rohheitt/coding/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rohheitt/coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/rohheitt/coding/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/rohheitt/coding/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/rohheitt/coding/tree/master/0096-unique-binary-search-trees) |
 | [0268-missing-number](https://github.com/rohheitt/coding/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/rohheitt/coding/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
@@ -164,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/rohheitt/coding/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/rohheitt/coding/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/rohheitt/coding/tree/master/0072-edit-distance) |
+| [0096-unique-binary-search-trees](https://github.com/rohheitt/coding/tree/master/0096-unique-binary-search-trees) |
 | [0392-is-subsequence](https://github.com/rohheitt/coding/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/rohheitt/coding/tree/master/0509-fibonacci-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/rohheitt/coding/tree/master/0646-maximum-length-of-pair-chain) |
