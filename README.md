@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/rohheitt/coding/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/rohheitt/coding/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/rohheitt/coding/tree/master/0646-maximum-length-of-pair-chain) |
+| [0881-boats-to-save-people](https://github.com/rohheitt/coding/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/rohheitt/coding/tree/master/0977-squares-of-a-sorted-array) |
 | [1029-two-city-scheduling](https://github.com/rohheitt/coding/tree/master/1029-two-city-scheduling) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rohheitt/coding/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/rohheitt/coding/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/rohheitt/coding/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/rohheitt/coding/tree/master/0392-is-subsequence) |
+| [0881-boats-to-save-people](https://github.com/rohheitt/coding/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/rohheitt/coding/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/rohheitt/coding/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rohheitt/coding/tree/master/0268-missing-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/rohheitt/coding/tree/master/0646-maximum-length-of-pair-chain) |
+| [0881-boats-to-save-people](https://github.com/rohheitt/coding/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/rohheitt/coding/tree/master/0977-squares-of-a-sorted-array) |
 | [1029-two-city-scheduling](https://github.com/rohheitt/coding/tree/master/1029-two-city-scheduling) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rohheitt/coding/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/rohheitt/coding/tree/master/0044-wildcard-matching) |
 | [0646-maximum-length-of-pair-chain](https://github.com/rohheitt/coding/tree/master/0646-maximum-length-of-pair-chain) |
+| [0881-boats-to-save-people](https://github.com/rohheitt/coding/tree/master/0881-boats-to-save-people) |
 | [1029-two-city-scheduling](https://github.com/rohheitt/coding/tree/master/1029-two-city-scheduling) |
 ## Sliding Window
 |  |
@@ -214,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/rohheitt/coding/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/rohheitt/coding/tree/master/0509-fibonacci-number) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/rohheitt/coding/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
