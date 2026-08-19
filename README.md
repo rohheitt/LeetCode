@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rohheitt/coding/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/rohheitt/coding/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rohheitt/coding/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rohheitt/coding/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/rohheitt/coding/tree/master/0042-trapping-rain-water) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/rohheitt/coding/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rohheitt/coding/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/rohheitt/coding/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/rohheitt/coding/tree/master/0075-sort-colors) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/rohheitt/coding/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/rohheitt/coding/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/rohheitt/coding/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/rohheitt/coding/tree/master/0088-merge-sorted-array) |
