@@ -241,4 +241,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/rohheitt/coding/tree/master/0240-search-a-2d-matrix-ii) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/rohheitt/coding/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/rohheitt/coding/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
