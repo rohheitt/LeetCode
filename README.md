@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/rohheitt/coding/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/rohheitt/coding/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rohheitt/coding/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/rohheitt/coding/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rohheitt/coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/rohheitt/coding/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/rohheitt/coding/tree/master/0283-move-zeroes) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/rohheitt/coding/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/rohheitt/coding/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rohheitt/coding/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/rohheitt/coding/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/rohheitt/coding/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/rohheitt/coding/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/rohheitt/coding/tree/master/0217-contains-duplicate) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/rohheitt/coding/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/rohheitt/coding/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rohheitt/coding/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/rohheitt/coding/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/rohheitt/coding/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/rohheitt/coding/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/rohheitt/coding/tree/master/0237-delete-node-in-a-linked-list) |
