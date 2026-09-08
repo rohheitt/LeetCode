@@ -44,7 +44,6 @@ class Solution {
         ListNode right = prev;
 
         while (right != null) {
-
             if (left.val != right.val) {
                 return false;
             }
