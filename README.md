@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/rohheitt/coding/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/rohheitt/coding/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/rohheitt/coding/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/rohheitt/coding/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rohheitt/coding/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Array
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/rohheitt/coding/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/rohheitt/coding/tree/master/0646-maximum-length-of-pair-chain) |
 | [0733-flood-fill](https://github.com/rohheitt/coding/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/rohheitt/coding/tree/master/0739-daily-temperatures) |
 | [0881-boats-to-save-people](https://github.com/rohheitt/coding/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/rohheitt/coding/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/rohheitt/coding/tree/master/0994-rotting-oranges) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rohheitt/coding/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/rohheitt/coding/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/rohheitt/coding/tree/master/0739-daily-temperatures) |
 ## Greedy
 |  |
 | ------- |
