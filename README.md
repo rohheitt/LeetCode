@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/rohheitt/coding/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/rohheitt/coding/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/rohheitt/coding/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/rohheitt/coding/tree/master/0338-counting-bits) |
 ## String
 |  |
 | ------- |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/rohheitt/coding/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/rohheitt/coding/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/rohheitt/coding/tree/master/0096-unique-binary-search-trees) |
+| [0338-counting-bits](https://github.com/rohheitt/coding/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/rohheitt/coding/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/rohheitt/coding/tree/master/0509-fibonacci-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/rohheitt/coding/tree/master/0646-maximum-length-of-pair-chain) |
