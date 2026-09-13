@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/rohheitt/coding/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/rohheitt/coding/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/rohheitt/coding/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/rohheitt/coding/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/rohheitt/coding/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/rohheitt/coding/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/rohheitt/coding/tree/master/1971-find-if-path-exists-in-graph) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/rohheitt/coding/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/rohheitt/coding/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/rohheitt/coding/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/rohheitt/coding/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/rohheitt/coding/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/rohheitt/coding/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/rohheitt/coding/tree/master/0994-rotting-oranges) |
@@ -333,11 +335,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/rohheitt/coding/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/rohheitt/coding/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/rohheitt/coding/tree/master/0684-redundant-connection) |
 | [1971-find-if-path-exists-in-graph](https://github.com/rohheitt/coding/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/rohheitt/coding/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/rohheitt/coding/tree/master/0684-redundant-connection) |
 | [0841-keys-and-rooms](https://github.com/rohheitt/coding/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/rohheitt/coding/tree/master/1971-find-if-path-exists-in-graph) |
 ## Floyd's Cycle Finding Algorithm
