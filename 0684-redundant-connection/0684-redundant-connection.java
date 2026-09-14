@@ -27,6 +27,6 @@ class Solution {
             return x;
         }
 
-        return find(parent[x], parent);
+        return parent[x] = find(parent[x], parent);
     }
 }
