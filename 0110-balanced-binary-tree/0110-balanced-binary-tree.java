@@ -19,16 +19,20 @@ class Solution {
         if(root == null){
             return 0;
         }
+        
         int l = helper(root.left) + 1;
         int r = helper(root.right) + 1;
         int result = Math.abs(l-r);
+
         if(result > 1){
             ans = false;
         }
+
         return Math.max(l,r);
     }
     public boolean isBalanced(TreeNode root) {
        int x = helper(root);
+       
        return ans;
     }
 }
