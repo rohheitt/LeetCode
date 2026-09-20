@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/rohheitt/coding/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/rohheitt/coding/tree/master/0392-is-subsequence) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rohheitt/coding/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/rohheitt/coding/tree/master/3498-reverse-degree-of-a-string) |
 ## Math
 |  |
 | ------- |
@@ -410,4 +411,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/rohheitt/coding/tree/master/0207-course-schedule) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/rohheitt/coding/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
