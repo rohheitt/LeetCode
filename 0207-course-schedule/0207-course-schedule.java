@@ -1,46 +1,39 @@
+//soln using kahn's algo!!
 class Solution {
     public boolean canFinish(int numCourses, int[][] prerequisites) {
         ArrayList<Integer>[] graph = new ArrayList[numCourses];
+        int[] indegree = new int[graph.length];
+        Queue<Integer> q = new LinkedList<>();
 
-        for(int i=0; i<numCourses; i++){
+        for(int i=0; i<graph.length; i++){
             graph[i] = new ArrayList<>();
         }
 
         for(int[] edge : prerequisites){
             graph[edge[1]].add(edge[0]);
+            indegree[edge[0]]++;
         }
 
-        boolean[] visited = new boolean[graph.length];
-        boolean[] path = new boolean[graph.length];
+        for(int i=0; i<numCourses; i++){
+            if(indegree[i] == 0){
+                q.add(i);
+            }
+        }
 
-        for(int i=0; i<graph.length; i++){
-            if(!visited[i]){
-                if(dfs(graph, i, visited, path)){
-                    return false;
+        int count = 0;
+        while(!q.isEmpty()){
+            int curr = q.poll();
+            count++;
+
+            for(int neighbour : graph[curr]){
+                indegree[neighbour]--;
+
+                if(indegree[neighbour] == 0){
+                    q.add(neighbour);
                 }
             }
         }
 
-        return true;
-    }
-
-    public boolean dfs(ArrayList<Integer>[] graph, int curr, boolean[] visited, boolean[] path){
-        visited[curr] = true;
-        path[curr] = true;
-
-        for(int neighbour : graph[curr]){
-            if(path[neighbour]){
-                return true;
-            }
-
-            if(!visited[neighbour]){
-                if(dfs(graph, neighbour, visited, path)){
-                    return true;
-                }
-            }
-        }
-        path[curr] = false;
-
-        return false;
+        return count == numCourses;
     }
 }
