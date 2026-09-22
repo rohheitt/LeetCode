@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rohheitt/coding/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rohheitt/coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/rohheitt/coding/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/rohheitt/coding/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/rohheitt/coding/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rohheitt/coding/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/rohheitt/coding/tree/master/0217-contains-duplicate) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/rohheitt/coding/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rohheitt/coding/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rohheitt/coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/rohheitt/coding/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/rohheitt/coding/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/rohheitt/coding/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/rohheitt/coding/tree/master/0287-find-the-duplicate-number) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/rohheitt/coding/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/rohheitt/coding/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/rohheitt/coding/tree/master/0168-excel-sheet-column-title) |
+| [0189-rotate-array](https://github.com/rohheitt/coding/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/rohheitt/coding/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/rohheitt/coding/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/rohheitt/coding/tree/master/0326-power-of-three) |
