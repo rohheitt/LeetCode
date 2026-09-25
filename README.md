@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/rohheitt/coding/tree/master/0646-maximum-length-of-pair-chain) |
 | [0733-flood-fill](https://github.com/rohheitt/coding/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/rohheitt/coding/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/rohheitt/coding/tree/master/0746-min-cost-climbing-stairs) |
 | [0881-boats-to-save-people](https://github.com/rohheitt/coding/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/rohheitt/coding/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/rohheitt/coding/tree/master/0994-rotting-oranges) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/rohheitt/coding/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/rohheitt/coding/tree/master/0509-fibonacci-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/rohheitt/coding/tree/master/0646-maximum-length-of-pair-chain) |
+| [0746-min-cost-climbing-stairs](https://github.com/rohheitt/coding/tree/master/0746-min-cost-climbing-stairs) |
 ## Monotonic Stack
 |  |
 | ------- |
