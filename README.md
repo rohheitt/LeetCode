@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/rohheitt/coding/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/rohheitt/coding/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/rohheitt/coding/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2396-strictly-palindromic-number](https://github.com/rohheitt/coding/tree/master/2396-strictly-palindromic-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/rohheitt/coding/tree/master/0509-fibonacci-number) |
 | [1492-the-kth-factor-of-n](https://github.com/rohheitt/coding/tree/master/1492-the-kth-factor-of-n) |
 | [1952-three-divisors](https://github.com/rohheitt/coding/tree/master/1952-three-divisors) |
+| [2396-strictly-palindromic-number](https://github.com/rohheitt/coding/tree/master/2396-strictly-palindromic-number) |
 | [3870-count-commas-in-range](https://github.com/rohheitt/coding/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/rohheitt/coding/tree/master/3871-count-commas-in-range-ii) |
 ## Dynamic Programming
@@ -422,4 +424,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/rohheitt/coding/tree/master/3498-reverse-degree-of-a-string) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/rohheitt/coding/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
