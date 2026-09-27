@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/rohheitt/coding/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/rohheitt/coding/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/rohheitt/coding/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/rohheitt/coding/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/rohheitt/coding/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/rohheitt/coding/tree/master/0646-maximum-length-of-pair-chain) |
 | [0733-flood-fill](https://github.com/rohheitt/coding/tree/master/0733-flood-fill) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/rohheitt/coding/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/rohheitt/coding/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rohheitt/coding/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/rohheitt/coding/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/rohheitt/coding/tree/master/0646-maximum-length-of-pair-chain) |
 | [0881-boats-to-save-people](https://github.com/rohheitt/coding/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/rohheitt/coding/tree/master/0977-squares-of-a-sorted-array) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rohheitt/coding/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/rohheitt/coding/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/rohheitt/coding/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/rohheitt/coding/tree/master/0628-maximum-product-of-three-numbers) |
 | [1492-the-kth-factor-of-n](https://github.com/rohheitt/coding/tree/master/1492-the-kth-factor-of-n) |
 | [1952-three-divisors](https://github.com/rohheitt/coding/tree/master/1952-three-divisors) |
 | [2396-strictly-palindromic-number](https://github.com/rohheitt/coding/tree/master/2396-strictly-palindromic-number) |
