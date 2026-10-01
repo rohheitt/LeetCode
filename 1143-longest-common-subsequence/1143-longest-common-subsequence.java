@@ -21,7 +21,7 @@ class Solution {
             return dp[n][m];
         }
         if(text1.charAt(n - 1) == text2.charAt(m - 1)){
-            return solve(text1, text2, n-1, m-1) + 1;
+            return dp[n][m] = solve(text1, text2, n-1, m-1) + 1;
         }else{
             int ans1 = solve(text1, text2, n-1, m);
             int ans2 = solve(text1, text2, n, m-1);
