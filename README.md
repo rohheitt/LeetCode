@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/rohheitt/coding/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/rohheitt/coding/tree/master/0392-is-subsequence) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rohheitt/coding/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1143-longest-common-subsequence](https://github.com/rohheitt/coding/tree/master/1143-longest-common-subsequence) |
 | [3498-reverse-degree-of-a-string](https://github.com/rohheitt/coding/tree/master/3498-reverse-degree-of-a-string) |
 ## Math
 |  |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/rohheitt/coding/tree/master/0509-fibonacci-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/rohheitt/coding/tree/master/0646-maximum-length-of-pair-chain) |
 | [0746-min-cost-climbing-stairs](https://github.com/rohheitt/coding/tree/master/0746-min-cost-climbing-stairs) |
+| [1143-longest-common-subsequence](https://github.com/rohheitt/coding/tree/master/1143-longest-common-subsequence) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -471,4 +473,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rohheitt/coding/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/rohheitt/coding/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
