@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rohheitt/coding/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rohheitt/coding/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/rohheitt/coding/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/rohheitt/coding/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/rohheitt/coding/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/rohheitt/coding/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/rohheitt/coding/tree/master/0496-next-greater-element-i) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/rohheitt/coding/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/rohheitt/coding/tree/master/0096-unique-binary-search-trees) |
 | [0198-house-robber](https://github.com/rohheitt/coding/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/rohheitt/coding/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/rohheitt/coding/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/rohheitt/coding/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/rohheitt/coding/tree/master/0416-partition-equal-subset-sum) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/rohheitt/coding/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/rohheitt/coding/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/rohheitt/coding/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/rohheitt/coding/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/rohheitt/coding/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/rohheitt/coding/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/rohheitt/coding/tree/master/0733-flood-fill) |
@@ -444,9 +447,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/rohheitt/coding/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/rohheitt/coding/tree/master/0416-partition-equal-subset-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/rohheitt/coding/tree/master/0416-partition-equal-subset-sum) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/rohheitt/coding/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
