@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/rohheitt/coding/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/rohheitt/coding/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/rohheitt/coding/tree/master/0042-trapping-rain-water) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rohheitt/coding/tree/master/0144-binary-tree-preorder-traversal) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/rohheitt/coding/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/rohheitt/coding/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/rohheitt/coding/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/rohheitt/coding/tree/master/0058-length-of-last-word) |
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/rohheitt/coding/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/rohheitt/coding/tree/master/0032-longest-valid-parentheses) |
 ## Knapsack Problem
 |  |
