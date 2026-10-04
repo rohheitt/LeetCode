@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rohheitt/coding/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/rohheitt/coding/tree/master/1480-running-sum-of-1d-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/rohheitt/coding/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2965-find-missing-and-repeated-values](https://github.com/rohheitt/coding/tree/master/2965-find-missing-and-repeated-values) |
 | [3731-find-missing-elements](https://github.com/rohheitt/coding/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rohheitt/coding/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/rohheitt/coding/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/rohheitt/coding/tree/master/0560-subarray-sum-equals-k) |
+| [2965-find-missing-and-repeated-values](https://github.com/rohheitt/coding/tree/master/2965-find-missing-and-repeated-values) |
 | [3731-find-missing-elements](https://github.com/rohheitt/coding/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1492-the-kth-factor-of-n](https://github.com/rohheitt/coding/tree/master/1492-the-kth-factor-of-n) |
 | [1952-three-divisors](https://github.com/rohheitt/coding/tree/master/1952-three-divisors) |
 | [2396-strictly-palindromic-number](https://github.com/rohheitt/coding/tree/master/2396-strictly-palindromic-number) |
+| [2965-find-missing-and-repeated-values](https://github.com/rohheitt/coding/tree/master/2965-find-missing-and-repeated-values) |
 | [3870-count-commas-in-range](https://github.com/rohheitt/coding/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/rohheitt/coding/tree/master/3871-count-commas-in-range-ii) |
 ## Dynamic Programming
@@ -350,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/rohheitt/coding/tree/master/0240-search-a-2d-matrix-ii) |
 | [0733-flood-fill](https://github.com/rohheitt/coding/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/rohheitt/coding/tree/master/0994-rotting-oranges) |
+| [2965-find-missing-and-repeated-values](https://github.com/rohheitt/coding/tree/master/2965-find-missing-and-repeated-values) |
 ## Quicksort
 |  |
 | ------- |
